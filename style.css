@@ -1,0 +1,20 @@
+marquee{
+    background-color: lightskyblue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+body{
+    text-align:center;
+}
+.my_nav_bar{
+    position:sticky;
+    top: 0;
+    z-index: 9999999999999999999;
+}
+h1{
+    font-style: oblique;
+}
+html{
+    scroll-behavior: smooth;
+}
